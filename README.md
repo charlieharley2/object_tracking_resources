@@ -11,6 +11,14 @@ Link: https://hackaday.io/project/28582-optical-motion-capture-system
 
 Source code: https://github.com/Rob2048/VectorONE
 
+***Raspberry Pi marker detection***
+
+Author:Ruurd Moelker
+
+Link:https://dreamonward.com/projects/pi-marker-tracking/
+
+Source code: https://gist.github.com/RRMoelker/29923aa6bd8e0ee533f37078062c4cdf
+
 ## Papers
 
 ***OpenTracker - A Flexible Software Design for Three-Dimensional Interaction***
